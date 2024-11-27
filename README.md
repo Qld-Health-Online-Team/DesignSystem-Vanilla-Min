@@ -1,1 +1,1 @@
-# QGDS-Vanilla-Min
+# DesignSystem-Vanilla-Min
